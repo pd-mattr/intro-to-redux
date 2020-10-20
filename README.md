@@ -2,7 +2,7 @@
 
 Prerequisites:
 
-  * Can use a computer
+  * Basic JavaScript programming
   
 Learning Outcomes:
 
